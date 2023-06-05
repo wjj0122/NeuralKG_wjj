@@ -1,6 +1,7 @@
 
 <p align="center">
-    <a href=""> <img src="pics/logo.png" width="400"/></a>
+    <a href="https://github.com/zjukg/NeuralKG/tree/main"> <img src="pics/logo.png" height="100"/></a>
+    <a href="https://github.com/zjukg/NeuralKG/tree/ind"> <img src="https://github.com/zjukg/NeuralKG/blob/ind/pics/logo-ind.png" height="100"/></a>
 <p>
 <p align="center">  
     <a href="http://neuralkg.zjukg.cn/">
@@ -36,12 +37,6 @@ KGEs**. We provide [comprehensive documents](https://zjukg.github.io/NeuralKG/in
 
 - [Table of Contents](#table-of-contents)
 - [😃What's New](#whats-new)
-  - [Jan, 2023](#jan-2023)
-  - [Oct, 2022](#oct-2022)
-  - [Sep, 2022](#sep-2022)
-  - [Jun, 2022](#jun-2022)
-  - [Mar, 2022](#mar-2022)
-  - [Feb, 2022](#feb-2022)
 - [Overview](#overview)
 - [Demo](#demo)
 - [Implemented KGEs](#implemented-kges)
@@ -61,25 +56,15 @@ KGEs**. We provide [comprehensive documents](https://zjukg.github.io/NeuralKG/in
 <br>
 
 # 😃What's New
-
-## Jan, 2023
-* We add the [SEGNN](https://arxiv.org/abs/2109.11800) model for our library
-
-## Oct, 2022
-* We add the [DualE](https://ojs.aaai.org/index.php/AAAI/article/view/16850) model for our library
-
-## Sep, 2022
-* We add the [PairRE](https://arxiv.org/pdf/2011.03798.pdf) model for our library
-
-## Jun, 2022
-* We add the [HAKE](https://arxiv.org/abs/1911.09419) model for our library
-
-## Mar, 2022
-* We have provided [Google Colab Tutotials](https://drive.google.com/drive/folders/1OyuxvdjRNFzRuheNZaGGCsPe75T1pW1P?usp=sharing) help users use our library
-* We have provided a new [blog](http://neuralkg.zjukg.org/uncategorized/neuralkg-for-recommendation%ef%bf%bc/) about how to use NeuralKG on custom datasets
-
-## Feb, 2022
-* We have released a paper [NeuralKG: An Open Source Library for Diverse Representation Learning of Knowledge Graphs](https://arxiv.org/abs/2202.12571)
+* [Apr, 2023] We propose a [challenge](https://tianchi.aliyun.com/competition/entrance/532081/introduction) about inductive KGRL at [CCKS2023](https://sigkg.cn/ccks2023/en/). Baseline is built based on [NeuralKG-ind](https://github.com/zjukg/NeuralKG/tree/ind). Welcome to involve!
+* [Apr, 2023] We release [NeuralKG-ind](https://github.com/zjukg/NeuralKG/tree/ind) for inductive Knowledge Graph Representation Learning(KGRL). The [paper](https://arxiv.org/pdf/2304.14678.pdf) of NeuralKG-ind is accepted by SIGIR2023 in Demonstration Track. 
+* [Jan, 2023] We add the [SEGNN](https://arxiv.org/abs/2109.11800) model for our library
+* [Oct, 2022] We add the [DualE](https://ojs.aaai.org/index.php/AAAI/article/view/16850) model for our library
+* [Sep, 2022] We add the [PairRE](https://arxiv.org/pdf/2011.03798.pdf) model for our library
+* [Jun, 2022] We add the [HAKE](https://arxiv.org/abs/1911.09419) model for our library
+* [Mar, 2022] We have provided [Google Colab Tutotials](https://drive.google.com/drive/folders/1OyuxvdjRNFzRuheNZaGGCsPe75T1pW1P?usp=sharing) help users use our library
+* [Mar, 2022] We have provided a new [blog](http://neuralkg.zjukg.org/uncategorized/neuralkg-for-recommendation%ef%bf%bc/) about how to use NeuralKG on custom datasets
+* [Feb, 2022] We have released a paper [NeuralKG: An Open Source Library for Diverse Representation Learning of Knowledge Graphs](https://arxiv.org/abs/2202.12571), which is accepted by SIGIR2022 in Demonstration Track. 
 
 <br>
 
